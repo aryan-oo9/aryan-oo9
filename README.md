@@ -23,10 +23,10 @@ Currently exploring deep learning, NLP, and computer vision.
 | [book-library-backend](https://github.com/aryan-oo9/book-library-backend) | Java · JWT | Secure REST API for book library management |
 
 ## 🤖 AI/ML Focus
-- 🧠 NLP & Sentiment Analysis (BERT, Scikit-learn)
+- 🧠 NLP (BERT, Scikit-learn)
 - 👁️ Computer Vision & Face Recognition
 - 📱 On-device ML with TensorFlow Lite
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryanverma-blue?logo=linkedin)](https://linkedin.com/in/aryanverma)
-[![Email](https://img.shields.io/badge/Email-int.aryanverma@gmail.com-red?logo=gmail)](mailto:int.aryanverma@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Verma-blue?logo=linkedin)](https://www.linkedin.com/in/aryan-verma-51a9b1292)
+[![Email](https://img.shields.io/badge/Email-int.aryanverma%40gmail.com-red?logo=gmail)](mailto:int.aryanverma@gmail.com)
