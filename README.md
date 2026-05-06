@@ -18,7 +18,7 @@ Currently exploring deep learning, NLP, and computer vision.
 ## 📌 Featured Projects
 | Project | Tech | Description |
 |--------|------|-------------|
-| [Upastithi-Pramaan]([https://github.com/aryan-oo9](https://github.com/codaksh7/upastithi-pramaan)) | React · FastAPI · Flutter · **Face Recognition** | Tri-layer biometric attendance — face + BLE + OTP |
+| [Upastithi-Pramaan]([https://github.com/aryan-oo9](https://github.com/codaksh7/upastithi-pramaan)) | React · FastAPI · Flutter · **Face Recognition** | Tri-layer biometric attendance - face + BLE + OTP |
 | [TweetSense](https://github.com/aryan-oo9/Tweetsense) | Next.js · Flask · **NLP/Sentiment ML** | Real-time tweet sentiment analytics dashboard |
 | [book-library-backend](https://github.com/aryan-oo9/book-library-backend) | Java · JWT | Secure REST API for book library management |
 
