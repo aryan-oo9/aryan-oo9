@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Aryan Verma 👋
 
-<!--
-**aryan-oo9/aryan-oo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering @ Fr. CRCE Mumbai (2027) · CGPA: 9.0
+💼 Ex-Intern @ CyberAries | Full-Stack + AI/ML Developer
+📍 Mumbai, India
 
-Here are some ideas to get you started:
+## 🚀 About Me
+Full-stack developer with hands-on AI/ML experience — building end-to-end systems
+that combine intelligent models with production-ready web interfaces.
+Currently exploring deep learning, NLP, and computer vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Frontend:** React.js · Next.js · TypeScript · Tailwind CSS  
+**Backend:** Python · Flask · FastAPI · Java · PostgreSQL · Supabase  
+**AI/ML:** PyTorch · TensorFlow Lite · Scikit-learn · OpenCV · NLP · Computer Vision  
+**Tools:** Git · GitHub · VS Code · Vercel
+
+## 📌 Featured Projects
+| Project | Tech | Description |
+|--------|------|-------------|
+| [Upastithi-Pramaan](https://github.com/aryan-oo9) | React · FastAPI · Flutter · **Face Recognition** | Tri-layer biometric attendance — face + BLE + OTP |
+| [TweetSense](https://github.com/aryan-oo9/Tweetsense) | Next.js · Flask · **NLP/Sentiment ML** | Real-time tweet sentiment analytics dashboard |
+| [book-library-backend](https://github.com/aryan-oo9/book-library-backend) | Java · JWT | Secure REST API for book library management |
+
+## 🤖 AI/ML Focus
+- 🧠 NLP & Sentiment Analysis (BERT, Scikit-learn)
+- 👁️ Computer Vision & Face Recognition
+- 📱 On-device ML with TensorFlow Lite
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryanverma-blue?logo=linkedin)](https://linkedin.com/in/aryanverma)
+[![Email](https://img.shields.io/badge/Email-int.aryanverma@gmail.com-red?logo=gmail)](mailto:int.aryanverma@gmail.com)
